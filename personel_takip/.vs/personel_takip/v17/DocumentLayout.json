@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\source\\repos\\personel_takip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|c:\\users\\emre\\source\\repos\\personel_takip\\personel_takip\\ui\\frm_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\frm_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\ui\\frm_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\frm_islemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|c:\\users\\emre\\source\\repos\\personel_takip\\personel_takip\\ui\\bilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\bilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|c:\\users\\emre\\source\\repos\\personel_takip\\personel_takip\\ui\\frm_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\frm_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|c:\\users\\emre\\source\\repos\\personel_takip\\personel_takip\\ui\\uyari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\uyari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\ui\\frm_personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\frm_personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|c:\\users\\emre\\source\\repos\\personel_takip\\personel_takip\\ui\\frm_personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53616CE5-5558-4C74-BFC0-EB0CE299F26F}|personel_takip\\personel_takip.csproj|solutionrelative:personel_takip\\ui\\frm_personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bilgi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\bilgi.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\bilgi.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\bilgi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personel_takip\\UI\\bilgi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:01:15.379Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "uyari.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\uyari.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\uyari.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\uyari.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personel_takip\\UI\\uyari.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:00:53.206Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_giris.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\frm_giris.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personel_takip\\UI\\frm_giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:37:31.468Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_islemler.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_islemler.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\frm_islemler.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_islemler.cs",
+              "RelativeToolTip": "personel_takip\\UI\\frm_islemler.cs",
+              "ViewState": "AgIAANwEAAAAAAAAAAAUwEsFAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:19:10.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_personel.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_personel.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\frm_personel.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_personel.cs",
+              "RelativeToolTip": "personel_takip\\UI\\frm_personel.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAYwPgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:06:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_personel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_personel.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\frm_personel.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_personel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personel_takip\\UI\\frm_personel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:03:32.203Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_islemler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_islemler.cs",
+              "RelativeDocumentMoniker": "personel_takip\\UI\\frm_islemler.cs",
+              "ToolTip": "C:\\Users\\Emre\\source\\repos\\personel_takip\\personel_takip\\UI\\frm_islemler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personel_takip\\UI\\frm_islemler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:45:46.709Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
